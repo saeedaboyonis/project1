@@ -1,15 +1,22 @@
-Q1- B,E\
+Q1- B,E
 
-Q2-D\
 
-Q3-C\
+Q2-D
 
-Q4-A,B\
 
-Q5-B\
+Q3-C
 
-Q6-A\
 
-Q7-D\
+Q4-A,B
 
-Q8-B\
+
+Q5-B
+
+
+Q6-A
+
+
+Q7-D
+
+
+Q8-B
