@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 DATE=`date +%k%M`
 
