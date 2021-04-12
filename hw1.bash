@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 DATE=`date +%k%M`
 
 if [[ $DATE -gt 0000 && $DATE -lt 459 ]]
